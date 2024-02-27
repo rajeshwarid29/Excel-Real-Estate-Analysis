@@ -19,6 +19,7 @@ The agency has provided a dataset of 506 houses in Boston. Following are the det
 
 **Data Dictionary:**
 Attribute Description
+
 CRIME RATE per capita crime rate by town
 
 INDUSTRY proportion of non-retail business acres per town (in percentage terms)

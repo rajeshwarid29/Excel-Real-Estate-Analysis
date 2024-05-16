@@ -11,7 +11,7 @@ various geographic features of a property like pollution level (NOX), crime rate
 (pupil to teacher ratio), connectivity (distance from highway), etc. This helps in determining the price
 of a property. The agency has also provided a dataset of 506 houses in Boston for which we'll have to do analysis. 
 
-**Objective (Task):**
+**Objective:**
 
 To analyze the magnitude of each variable to which it can affect the price of a house in a particular locality using various statistical/analytical tools in MS Excel like Summary
 statistics, Histogram, correlation table, Regression analysis (using Data analysis tool pack) & implementing EDA .
